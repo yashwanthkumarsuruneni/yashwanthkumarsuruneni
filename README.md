@@ -7,8 +7,8 @@
 <p> My skillset includes :</p>
 
 
-- ReactJs (https://reactjs.org/) 
-- Typescript <a style="margin: 10px;" target="_blank" href="https://www.typescriptlang.org/"><img height="50px" width="50px" alt="TypeScript" src="https://raw.githubusercontent.com/yashwanthkumarsuruneni/yashwanthkumarsuruneni/master/skills/typescript.png"></a>
-- NodeJs (https://nodejs.org/en/about/)
-- Angular (https://angular.io/)
+- <a style="margin: 40px;" target="_blank" href=""><img height="50px" width="50px" alt="Reactjs" src="https://raw.githubusercontent.com/yashwanthkumarsuruneni/yashwanthkumarsuruneni/master/skills/react.png"></a>  
+- <a style="margin: 40px;" target="_blank" href="https://www.typescriptlang.org/"><img height="50px" width="50px" alt="TypeScript" src="https://raw.githubusercontent.com/yashwanthkumarsuruneni/yashwanthkumarsuruneni/master/skills/typescript.png"></a>
+- <a style="margin: 40px;" target="_blank" href="https://nodejs.org/en/about/"><img height="50px" width="100px" alt="Nodejs" src="https://raw.githubusercontent.com/yashwanthkumarsuruneni/yashwanthkumarsuruneni/master/skills/nodejs.png"></a>
+- <a style="margin: 40px;" target="_blank" href="https://angular.io/"><img height="50px" width="50px" alt="Angular" src="https://raw.githubusercontent.com/yashwanthkumarsuruneni/yashwanthkumarsuruneni/master/skills/angular.png"></a>
 - AWS (https://aws.amazon.com/)
