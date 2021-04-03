@@ -7,7 +7,7 @@
 <p> My skillset includes :</p>
 
 
-<p> <a target="_blank" href="https://reactjs.org/"><img height="100px" width="100px" alt="Reactjs" src="https://raw.githubusercontent.com/yashwanthkumarsuruneni/yashwanthkumarsuruneni/master/skills/react.png"></a>   
+<p align="center" > <a target="_blank" href="https://reactjs.org/"><img height="100px" width="100px" alt="Reactjs" src="https://raw.githubusercontent.com/yashwanthkumarsuruneni/yashwanthkumarsuruneni/master/skills/react.png"></a>   
 <a target="_blank" href="https://www.typescriptlang.org/"><img height="100px" width="100px" alt="TypeScript" src="https://raw.githubusercontent.com/yashwanthkumarsuruneni/yashwanthkumarsuruneni/master/skills/typescript.png"></a> 
 <a target="_blank" href="https://nodejs.org/en/about/"><img height="70px" width="100px" alt="Nodejs" src="https://raw.githubusercontent.com/yashwanthkumarsuruneni/yashwanthkumarsuruneni/master/skills/nodejs.png"></a> 
 <a target="_blank" href="https://angular.io/"><img height="100px" width="100px" alt="Angular" src="https://raw.githubusercontent.com/yashwanthkumarsuruneni/yashwanthkumarsuruneni/master/skills/angular.png"></a> 
