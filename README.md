@@ -11,4 +11,4 @@
 <p> <a target="_blank" href="https://www.typescriptlang.org/"><img height="50px" width="50px" alt="TypeScript" src="https://raw.githubusercontent.com/yashwanthkumarsuruneni/yashwanthkumarsuruneni/master/skills/typescript.png"></a> </p>
 <p> <a target="_blank" href="https://nodejs.org/en/about/"><img height="50px" width="100px" alt="Nodejs" src="https://raw.githubusercontent.com/yashwanthkumarsuruneni/yashwanthkumarsuruneni/master/skills/nodejs.png"></a> </p>
 <p> <a target="_blank" href="https://angular.io/"><img height="50px" width="50px" alt="Angular" src="https://raw.githubusercontent.com/yashwanthkumarsuruneni/yashwanthkumarsuruneni/master/skills/angular.png"></a> </p>
-<p> <a target="_blank" href="https://aws.amazon.com/"><img height="50px" width="50px" alt="AWS" src="https://raw.githubusercontent.com/yashwanthkumarsuruneni/yashwanthkumarsuruneni/master/skills/aws.png"></a> </p>
+<p> <a target="_blank" href="https://aws.amazon.com/"><img height="50px" width="50px" alt="AWS" src="https://raw.githubusercontent.com/yashwanthkumarsuruneni/yashwanthkumarsuruneni/master/skills/aws_logo.png"></a> </p>
