@@ -1,9 +1,15 @@
 ### Hello world! 👋
 
-<p> I'm a software engineer :man_technologist: , currently learning [Go!](https://go.dev)
+I'm a Software Engineer :man_technologist: , currently learning [Go!](https://go.dev/). 
+
+- 🌱 I enjoy...
+    - infrastructure automation
+    - learning new things
+    - :running:
 
 
-<p> My skillset includes :</p>
+
+<p> My skillset includes and not limited to :</p>
 
   ---  
   
