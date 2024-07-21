@@ -1,6 +1,6 @@
 ### Hello world! 👋
 
-<p> I'm a software engineer :man_technologist: , A passsionate programmer, currently learning [Go!](https://go.dev/)
+<p> I'm a software engineer :man_technologist: , currently learning [Go!](https://go.dev)
 
 
 <p> My skillset includes :</p>
